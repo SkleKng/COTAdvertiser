@@ -23,7 +23,7 @@ required arguments:
 
 Make sure you specify a line indented file of discord channels, and the account you specify is in said servers. You must be in the following servers to use the provided file:
 
-https://discord.gg/RM9KqbnQec
-https://discord.gg/nqssXF2xXH
-https://discord.gg/6dkpcwsKB8
-https://discord.gg/emojis
+https://discord.gg/RM9KqbnQec  
+https://discord.gg/nqssXF2xXH  
+https://discord.gg/6dkpcwsKB8  
+https://discord.gg/emojis  
