@@ -21,7 +21,7 @@ required arguments:
                         Your Discord Password
 ```
 
-Make sure you specify a line indented file of discord channels, and the account you specify is in said servers. You must be in the following servers to use the provided file:
+Make sure you specify a line indented file of discord channels, and the account you log in to is in said servers. You must be in the following servers to use the provided file:
 
 https://discord.gg/RM9KqbnQec  
 https://discord.gg/nqssXF2xXH  
