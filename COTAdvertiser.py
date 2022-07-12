@@ -47,40 +47,6 @@ while(driver.current_url == "https://discord.com/login"):
     print(">>Waiting for captcha...")
     if(driver.current_url != "https://discord.com/login"):
         break
-    
-test1 = "https://discord.com/channels/728099128889835543/995554499668234301"
-test2 = "https://discord.com/channels/728099128889835543/995554517586288640"
-test3 = "https://discord.com/channels/728099128889835543/995554536431288460"
-
-#Royal - 6 hour
-royal6 = "https://discord.com/channels/559271990456745996/880482489062264852"
-
-#Royal - 2 hour
-royal2 = "https://discord.com/channels/559271990456745996/880482472603824198"
-
-#Royal - 1 hour
-royal1 = "https://discord.com/channels/559271990456745996/880482455314915368"
-
-#Royal - 1 minute
-royal1m = "https://discord.com/channels/559271990456745996/880482431776481290"
-
-#GYS - Unlimited
-gys = "https://discord.com/channels/712642670240989194/722723832468602913"
-
-#Magicly - 6 hour
-magic6 = "https://discord.com/channels/727741335158915175/787337652810416138"
-
-#Magicly - 2 Hour
-magic2 = "https://discord.com/channels/727741335158915175/787337179977482280"
-#Magicly - 1 hour
-magic1 = "https://discord.com/channels/727741335158915175/787336715391074314"
-
-#Magicly - 30 sec
-magic30 = "https://discord.com/channels/727741335158915175/787336841371451422"
-
-#Emoji - 1 Hour
-emoji = "https://discord.com/channels/321845546534830085/321845810432049164"
-
 totalservers = len(array_urls)
 serversdone = 0
 
