@@ -16,7 +16,7 @@ required.add_argument('-p', '--password', help='Your Discord Password', required
 
 args = parser.parse_args()
 
-f = open("servers.txt", "r")
+f = open(args.input, "r")
 array_urls = []
 for line in f:
     line = line.strip("\n")
