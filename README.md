@@ -21,9 +21,21 @@ required arguments:
                         Your Discord Password
 ```
 
+When directed to the CAPTCHA page, solve the captcha and enter 2FA if applicable. The program will wait until captcha is completed.
+
+## Notes
+
+This program is completely TOS FRIENDLY :))))))  
+Aditionally, this program can run in the background without any issues  
+
 Make sure you specify a line indented file of discord channels, and the account you log in to is in said servers. You must be in the following servers to use the provided file:
 
 https://discord.gg/RM9KqbnQec  
 https://discord.gg/nqssXF2xXH  
 https://discord.gg/6dkpcwsKB8  
 https://discord.gg/emojis  
+
+I encourage making a batch file for easy execution. A typical file may look like this:  
+```bash
+python3 C:\Users\vimal\OneDrive\Desktop\VSCode\COTAdvertiser.py -i C:\Users\vimal\OneDrive\Desktop\VSCode\servers.txt -u *USERNAME* -p *PASSWORD*
+```
